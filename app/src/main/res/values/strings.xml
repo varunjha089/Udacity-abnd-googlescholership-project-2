@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="plus_three">+3 Points</string>
+    <string name="plus_two">+2 Points</string>
+    <string name="plus_one">Free Threw</string>
+    <string name="reset">RESET</string>
+    <string name="zero">0</string>
+    <string name="team_a">TEAM A</string>
+    <string name="team_b">TEAM B</string>
+    <string name="welcome">Hello\nWelcome</string>
+    <string name="fourRun">+4 RUN</string>
+    <string name="sixRun">+6 RUN</string>
+    <string name="oneRun">+1 RUN</string>
+    <string name="out">OUT</string>
+    <string name="devide">/</string>
+    <string name="selectgame">What You Want To Play ?</string>
+    <string name="selectgame1">cricket</string>
+    <string name="selectgame2">basket Ball</string>
+</resources>
