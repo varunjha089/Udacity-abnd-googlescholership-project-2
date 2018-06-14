@@ -5,8 +5,10 @@
     <string name="plus_one">Free Threw</string>
     <string name="reset">RESET</string>
     <string name="zero">0</string>
-    <string name="team_a">TEAM A</string>
-    <string name="team_b">TEAM B</string>
+    <string name="team_a">Chicago</string>
+    <string name="team_b">Miami</string>
+    <string name="team_aa">India</string>
+    <string name="team_bb">Pakistan</string>
     <string name="welcome">Hello\nWelcome</string>
     <string name="fourRun">+4 RUN</string>
     <string name="sixRun">+6 RUN</string>

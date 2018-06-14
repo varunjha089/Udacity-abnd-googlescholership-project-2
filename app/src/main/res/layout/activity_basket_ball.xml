@@ -19,6 +19,13 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:layout_margin="15dp"
+                    android:background="@drawable/chikago"
+                    android:contentDescription="@string/team_a" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -69,6 +76,12 @@
                 android:layout_height="match_parent"
                 android:layout_weight="1"
                 android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    android:layout_margin="15dp"
+                    android:background="@drawable/miami"
+                    android:contentDescription="@string/team_b" />
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -123,7 +136,6 @@
             android:text="@string/reset"
             android:textAllCaps="true"
             android:textColor="@color/colorWhite"
-            android:layout_marginTop="220dp"
             android:layout_gravity="center_horizontal"/>
     </LinearLayout>
 </ScrollView>
